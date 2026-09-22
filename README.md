@@ -6,20 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Python+%7C+Data+Analysis+%7C+Machine+Learning;Building+Practical+Data-Driven+Solutions;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
 
-<br>
-
-<a href="https://github.com/Madhubala288">
-<img src="https://img.shields.io/badge/GitHub-Madhubala288-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhubala-khatri-87222a2a8/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Madhubala288&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -28,17 +14,17 @@
 
 I'm an **AI & Machine Learning enthusiast** with a growing focus on **Python, Data Analysis and Machine Learning**.
 
-I enjoy turning raw data into meaningful insights and building practical machine learning applications.
+I enjoy working with data, finding meaningful patterns, building machine learning models, and turning ideas into practical applications.
 
 - 🐍 Working with **Python**
 - 📊 Exploring **Data Analysis & Visualization**
-- 🤖 Building **Machine Learning** projects
+- 🤖 Building practical **Machine Learning** projects
 - 🧹 Practicing **Data Cleaning & Preprocessing**
 - ⚙️ Working with **Feature Engineering**
 - 📈 Learning **Model Evaluation & Optimization**
 - 🌐 Building interactive applications using **Streamlit**
-- 🔍 Exploring practical **Explainable AI**
-- 🚀 Learning through internships and hands-on projects
+- 🔍 Exploring **Explainable AI**
+- 🚀 Learning through hands-on projects and internships
 
 ---
 
@@ -51,7 +37,7 @@ I enjoy turning raw data into meaningful insights and building practical machine
 
 ### 🐍 Python
 
-Building data-driven applications and automation scripts using Python.
+Building data-driven applications, analysis workflows and automation scripts using Python.
 
 </td>
 
@@ -59,7 +45,7 @@ Building data-driven applications and automation scripts using Python.
 
 ### 📊 Data Analysis
 
-Cleaning, exploring and visualizing datasets to discover useful patterns.
+Cleaning, exploring and visualizing datasets to discover useful patterns and insights.
 
 </td>
 
@@ -265,33 +251,17 @@ A practical machine learning classification project involving data preprocessing
 
 # 💼 Experience
 
-## 🤖 AI Trainee — PureLogics
-
-Working on practical AI/ML and data-focused learning including:
-
-- 🐍 Python
-- 🤖 Artificial Intelligence
-- 📊 Data Analysis
-- 🧹 Data Preprocessing
-- 📈 Machine Learning
-- 📋 Model Evaluation
-
----
-
 ## 🤖 AI & ML Internship — VortexTech
 
-Practical work involving:
+Worked on practical AI/ML and data-focused tasks including:
 
 - 🐍 Python
 - 📊 Data Analysis
 - 🧹 Data Preprocessing
-- 🤖 Classification
-- 📈 Machine Learning
-- 📋 Model Evaluation
-
-<a href="https://github.com/Madhubala288/AI-ML-Internship-vortexTech">
-<img src="https://img.shields.io/badge/Internship%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+- 🤖 Machine Learning
+- 📋 Classification
+- 📈 Model Evaluation
+- 📊 Dataset Analysis
 
 ---
 
