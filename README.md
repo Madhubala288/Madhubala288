@@ -1,93 +1,94 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-<!-- Main Banner (Soojal style dynamic dark banner) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Madhubala&fontSize=48&fontColor=ffffff&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Data%20Analyst&descSize=16&descAlignY=62&descColor=8b949e" width="100%" />
+# 🌸 Madhubala Khatri
 
-<br/>
+### AI & ML | Data Analysis | Python
 
-<!-- Social Badges -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;Python+%7C+Data+Analysis;Machine+Learning+%7C+EDA;Building+Practical+Projects;Always+Learning+%26+Improving" />
+
+<br>
+
 <a href="https://github.com/Madhubala288">
-  <img src="https://img.shields.io/badge/GITHUB-MADHUBALA288-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Madhubala288-181717?style=for-the-badge&logo=github" />
 </a>
+
 <a href="https://www.linkedin.com/in/madhubala-khatri-87222a2a8/">
-  <img src="https://img.shields.io/badge/LINKEDIN-MADHUBALA%20KHATRI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Madhubala%20Khatri-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=Madhubala288&label=Profile%20Views&color=8A2BE2&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Madhubala288&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
 </div>
 
-## 🌸 About Me
+---
 
-Hi! I'm **Madhubala**, an aspiring **AI & Machine Learning enthusiast** who enjoys turning data into meaningful insights and building practical machine learning solutions.
+<!-- ======================= ABOUT ME ======================= -->
+
+## 🌷 About Me
+
+I'm an **AI & ML enthusiast** passionate about learning how data can be transformed into meaningful insights and practical solutions.
 
 - 🐍 Working with **Python**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 📊 Learning and practicing **Data Analysis**
-- 📈 Interested in data-driven problem solving
-- 🌱 Continuously improving my technical skills
-- 💡 I enjoy building practical projects while learning new technologies
-- 🚀 Currently focusing on strengthening my **AI, ML & Data Analysis** skills
+- 📊 Exploring **Data Analysis & Visualization**
+- 🤖 Learning **Machine Learning**
+- 🧹 Practicing **Data Preprocessing & Feature Engineering**
+- 📈 Working with **Exploratory Data Analysis**
+- 🌐 Building interactive applications with **Streamlit**
+- 🔍 Exploring **Explainable AI**
+- 🚀 Building practical projects to strengthen my skills
+- 🌱 Continuously learning and improving
 
 ---
 
-## 🧠 AI & Machine Learning
+<!-- ======================= SKILLS ======================= -->
 
-| Area | Skills |
-|---|---|
-| 🐍 Programming | Python |
-| 📊 Data Analysis | Pandas, NumPy |
-| 📈 Data Visualization | Matplotlib, Seaborn |
-| 🤖 Machine Learning | Scikit-learn |
-| 🧹 Data Preprocessing | Cleaning, Encoding, Feature Preparation |
-| 📋 Model Evaluation | Accuracy, Precision, Recall, F1-Score |
-| 🌐 Deployment | Streamlit |
-| 📓 Development | Jupyter Notebook, VS Code |
+## 🧠 Skills & Technologies
 
----
+### 🐍 Programming & Data
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 👩‍💻 Programming & Data
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-<img src="https://skillicons.dev/icons?i=numpy" />
+</p>
+
+**Python • Pandas • NumPy**
+
+### 📊 Data Analysis & Visualization
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Pandas • NumPy • Matplotlib • Seaborn • Exploratory Data Analysis**
 
 ### 🤖 Machine Learning
 
-<img src="https://skillicons.dev/icons?i=sklearn" />
+**Scikit-learn • Classification • Regression • Data Preprocessing • Feature Engineering • Model Evaluation**
 
-### 🌐 Web & Deployment
+### 🌐 Deployment & Development
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=streamlit" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=streamlit,vscode,git,github" />
+</p>
 
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</div>
+**Streamlit • Jupyter Notebook • VS Code • Git • GitHub**
 
 ---
 
+<!-- ======================= PROJECTS ======================= -->
+
 # 🚀 Featured Projects
 
-## 🌫️ 1. AQI Forecasting System
+## 🌫️ AQI Forecasting System
 
-An end-to-end **Air Quality Index forecasting system** that uses historical air-quality and weather data to build machine learning predictions.
+An end-to-end **Air Quality Index forecasting system** using historical air-quality and weather data.
 
 ### 🔹 Highlights
 
-- 📊 Data collection and preprocessing
+- 📊 Data collection & preprocessing
 - 🧹 Feature engineering
 - 🤖 Machine Learning models
 - 📈 Model evaluation
@@ -100,9 +101,9 @@ https://github.com/Madhubala288/AQI-Predictor
 
 ---
 
-## 💳 2. Credit Card Fraud Detection
+## 💳 Credit Card Fraud Detection
 
-A machine learning project focused on identifying potentially fraudulent credit-card transactions.
+A Machine Learning project focused on identifying potentially fraudulent credit-card transactions.
 
 ### 🔹 Highlights
 
@@ -118,9 +119,9 @@ https://github.com/Madhubala288/ML-INTERNSHIP
 
 ---
 
-## 📊 3. Telco Customer Churn Analytics
+## 📊 Telco Customer Churn Analytics
 
-An interactive **Customer Churn Analytics Dashboard** built to analyze customer behavior and identify patterns related to churn.
+An interactive **Customer Churn Analytics Dashboard** for exploring customer behavior and churn patterns.
 
 ### 🔹 Highlights
 
@@ -136,48 +137,50 @@ https://github.com/Madhubala288/Data-Analysis-Internship
 
 ---
 
+<!-- ======================= EXPERIENCE ======================= -->
+
 # 💼 Experience
 
-### 🤖 AI/ML Intern — PureLogics
-
-**AI Trainee**
+### 🤖 AI Trainee — PureLogics
 
 Currently developing practical skills in:
 
-- Python
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
-- Data preprocessing
-- Model building
-- Model evaluation
+- 🐍 Python
+- 🤖 Artificial Intelligence
+- 📊 Data Analysis
+- 🧹 Data Preprocessing
+- 📈 Exploratory Data Analysis
+- 🤖 Machine Learning
+- 📋 Model Evaluation
 
 ---
 
-### 🤖 AI & ML Internship — VortexTech
+### 🤖 AI & ML Intern — VortexTech
 
-Worked on practical AI/ML assignments and projects involving:
+Worked on practical AI/ML assignments involving:
 
-- Python
-- Data preprocessing
-- Classification
-- Machine Learning models
-- Model evaluation
-- Data analysis
+- 🐍 Python
+- 📊 Data Analysis
+- 🧹 Data Preprocessing
+- 🤖 Classification
+- 📈 Machine Learning
+- 📋 Model Evaluation
 
-🔗 **Repository:**  
+🔗 **Internship Repository:**  
 https://github.com/Madhubala288/AI-ML-Internship-vortexTech
 
 ---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
 
 # 📚 Currently Learning
 
 ```text
 🐍 Advanced Python
 📊 Data Analysis
-🤖 Machine Learning
 📈 Exploratory Data Analysis
+🤖 Machine Learning
 🧹 Feature Engineering
 📋 Model Evaluation
-🌐 Streamlit Deployment
+🌐 Streamlit
 🔍 Explainable AI
